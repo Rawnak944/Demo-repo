@@ -1,4 +1,4 @@
 # Demo
 
 Hello, This is Avy!
-How's everythng going?
+How's everything going?
